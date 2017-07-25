@@ -4,7 +4,7 @@ iOS UI Components
 ### LSRefresh
 
 #### Demo
-![demo](https://github.com/lsgbhp/LSUIKit/LSRefresh/blob/master/demo.gif)
+![demo](https://github.com/lsgbhp/LSUIKit/raw/master/LSRefresh/demo.gif)
 
 #### Usage
 
